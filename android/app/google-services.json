@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "657515951047",
+    "firebase_url": "https://chatapplinkedin.firebaseio.com",
+    "project_id": "chatapplinkedin",
+    "storage_bucket": "chatapplinkedin.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:657515951047:android:8e7f96f69ef8ae570e9fe2",
+        "android_client_info": {
+          "package_name": "co.prashantchatApp.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "657515951047-7k35safet038jpmnuhpltu4p8to43kfc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfTfACs__FsKTaS7NQi-6-vMSMYXlnHUM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "657515951047-7k35safet038jpmnuhpltu4p8to43kfc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
